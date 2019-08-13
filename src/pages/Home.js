@@ -8,11 +8,12 @@ class Home extends React.Component {
     persons: []
   }
   componentDidMount() {
+    document.title = "Home";
     api.getData('params')
     .then(res => {
       const persons = res.data;
       
-      this.setState({ persons ,loading:false});
+      return this.setState({ persons ,loading:false});
     })
   }
     render() {

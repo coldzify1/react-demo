@@ -14,9 +14,11 @@ class App extends React.Component {
     return (
     <div className="App">
       <Header/>
-      
+      <section>
       <Route exact path="/" component={Home} />
       <Route path="/contact" component={Contact} />
+      </section>
+      
       <Footer/>
     </div>
   );

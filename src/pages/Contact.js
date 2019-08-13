@@ -2,6 +2,10 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 
 class Contact extends React.Component {
+  componentDidMount() {
+    document.title = "Contact";
+    
+  }
     render() {
 
 
