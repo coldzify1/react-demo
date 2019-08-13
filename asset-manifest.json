@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coldzify1/react-demo/static/css/main.93bbad74.chunk.css",
+    "main.js": "/coldzify1/react-demo/static/js/main.5edace07.chunk.js",
+    "main.js.map": "/coldzify1/react-demo/static/js/main.5edace07.chunk.js.map",
+    "runtime~main.js": "/coldzify1/react-demo/static/js/runtime~main.74bd80ea.js",
+    "runtime~main.js.map": "/coldzify1/react-demo/static/js/runtime~main.74bd80ea.js.map",
+    "static/js/2.fe08795f.chunk.js": "/coldzify1/react-demo/static/js/2.fe08795f.chunk.js",
+    "static/js/2.fe08795f.chunk.js.map": "/coldzify1/react-demo/static/js/2.fe08795f.chunk.js.map",
+    "index.html": "/coldzify1/react-demo/index.html",
+    "precache-manifest.0553d58acc93f4e8cb9b33f1c6b16216.js": "/coldzify1/react-demo/precache-manifest.0553d58acc93f4e8cb9b33f1c6b16216.js",
+    "service-worker.js": "/coldzify1/react-demo/service-worker.js",
+    "static/css/main.93bbad74.chunk.css.map": "/coldzify1/react-demo/static/css/main.93bbad74.chunk.css.map"
+  }
+}
