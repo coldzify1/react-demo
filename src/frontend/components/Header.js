@@ -1,4 +1,5 @@
 import React from 'react'
+
 import { LinkContainer } from "react-router-bootstrap";
 import { Nav,Navbar} from 'react-bootstrap';
 class Header extends React.Component {
@@ -11,7 +12,7 @@ class Header extends React.Component {
             <LinkContainer to='/'><Navbar.Brand >Brand</Navbar.Brand></LinkContainer>
             <Nav className="mr-auto">
               <LinkContainer to='/'><Nav.Link >Home</Nav.Link></LinkContainer>
-              <LinkContainer to='/contact'><Nav.Link >Contact</Nav.Link></LinkContainer>
+              <LinkContainer to='/contact'><Nav.Link  >Contact</Nav.Link></LinkContainer>
                 
                 
                 
